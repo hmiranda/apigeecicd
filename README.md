@@ -8,7 +8,7 @@ projects.
 
 ## Components
 
-### Sample Apigee Proxy - Currency API ###
+### Sample Apigee Proxy - Currency API
 
 Project contains a sample proxy for a currency API that retrieves exchange rates
 for a base currency using [fixer.io](http://fixer.io) API as the target.
